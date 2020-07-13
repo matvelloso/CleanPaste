@@ -13,10 +13,6 @@ using System.Diagnostics;
 
 namespace CleanPaste
 {
-
-
-
-
     public partial class SettingsForm : Form
     {
         UserSettings settings;
